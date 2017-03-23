@@ -19,14 +19,14 @@ s.summary          = 'A subclass on UILabel that provides a blink.'
 
 s.description      = 'This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking.'
 
-s.homepage         = 'https://github.com/goodlord01/BlinkingLabel'
+s.homepage         = 'https://github.com/MotoCycleo/BlinkingLabel'
 # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'goodlord01' => 'sanguineok@gmail.com' }
-s.source           = { :git => 'https://github.com/goodlord01/BlinkingLabel.git', :tag => s.version.to_s }
-# s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+s.source           = { :git => 'https://github.com/MotoCycleo/BlinkingLabel.git', :tag => s.version.to_s }
+# s.social_media_url = 'https://github.com/MotoCycleo/BlinkingLabel'
 
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '9.0'
 
 s.source_files = 'BlinkingLabel/Classes/**/*'
 
